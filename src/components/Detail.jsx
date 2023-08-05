@@ -1,5 +1,5 @@
+import { LangContext } from "@/contexts/LangContext";
 import { ThemeContext } from "@/contexts/ThemeContext";
-import { LangContext } from "@/contexts/LangContex";
 import { useContext } from "react";
 
 export const Detail = () => {
